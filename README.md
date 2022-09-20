@@ -10,9 +10,9 @@
 <img src="https://i.gifer.com/HaD1.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/alan-varghese-366836224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alan-varghese" height="30" width="40" /></a>
-<a href="https://fb.com/alan varghese" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alan varghese" height="30" width="40" /></a>
-<a href="https://instagram.com/alan._.varghese" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alan varghese" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="albin george" height="30" width="40" /></a>
+<a href="https://fb.com/albingeorge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="albin george" height="30" width="40" /></a>
+<a href="https://instagram.com/albingeorge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="albin george" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
