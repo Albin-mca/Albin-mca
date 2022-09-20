@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alan Varghese</h1>
+<h1 align="center">Hi 👋, I'm Albin George</h1>
 <h3 align="center">A motivated Programmer who aims to excel in life</h3>
 <h2 align="center"><img  width="500" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 <! img width="2000" src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png">
