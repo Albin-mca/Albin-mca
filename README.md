@@ -3,10 +3,10 @@
 <h2 align="center"><img  width="500" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 <! img width="2000" src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png">
 <h4 width="100"> 🔭 I’m currently a MCA student in Amal Jyothi College,Kanjirapally.<br>
-🌱 I’m currently learning Flutter.<br>
+🌱 I’m currently learning Android.<br>
 👯 I’m looking to collaborate with other programmers.<br>
 ⚡️ Fun fact:I love to Travel,eat and CODE.<br>
-  In my opinion, love is the best teacher for everything. It is far better than responsibility. </h4>
+  In my opinion, Passion is the best teacher for everything. It is far better than responsibility. </h4>
 <img src="https://i.gifer.com/HaD1.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
